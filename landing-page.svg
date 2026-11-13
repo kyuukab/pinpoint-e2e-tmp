@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff7f0"/>
+      <stop offset="100%" stop-color="#ffe1ee"/>
+    </linearGradient>
+    <linearGradient id="btn" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff5da2"/>
+      <stop offset="100%" stop-color="#8e6bff"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="640" fill="url(#bg)"/>
+  <!-- decorative blobs -->
+  <circle cx="120" cy="120" r="90" fill="#ffd23f" opacity="0.7"/>
+  <circle cx="840" cy="100" r="60" fill="#4de3ff" opacity="0.6"/>
+  <circle cx="880" cy="520" r="100" fill="#8e6bff" opacity="0.25"/>
+  <circle cx="80" cy="540" r="70" fill="#ff5da2" opacity="0.2"/>
+  <!-- nav -->
+  <rect x="60" y="40" width="120" height="36" rx="18" fill="#2a2a35"/>
+  <text x="120" y="64" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#fff">Pinpoint</text>
+  <rect x="760" y="40" width="140" height="36" rx="18" fill="#fff" stroke="#2a2a35" stroke-width="2"/>
+  <text x="830" y="64" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2a2a35">Sign up</text>
+  <!-- hero -->
+  <text x="480" y="200" text-anchor="middle" font-family="sans-serif" font-size="56" font-weight="900" fill="#2a2a35">Review designs</text>
+  <text x="480" y="260" text-anchor="middle" font-family="sans-serif" font-size="56" font-weight="900" fill="#ff5da2">right on the PR</text>
+  <text x="480" y="320" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#666">Pin comments on HTML/SVG mockups, synced to GitHub.</text>
+  <rect x="380" y="370" width="200" height="56" rx="28" fill="url(#btn)"/>
+  <text x="480" y="405" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#fff">Try it free</text>
+  <!-- feature cards -->
+  <rect x="80" y="480" width="240" height="110" rx="20" fill="#fff" stroke="#2a2a35" stroke-width="3"/>
+  <text x="200" y="525" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2a2a35">🎯 Pixel pins</text>
+  <text x="200" y="555" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#888">Click anywhere</text>
+  <rect x="360" y="480" width="240" height="110" rx="20" fill="#fff" stroke="#2a2a35" stroke-width="3"/>
+  <text x="480" y="525" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2a2a35">💬 PR sync</text>
+  <text x="480" y="555" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#888">Comments on GitHub</text>
+  <rect x="640" y="480" width="240" height="110" rx="20" fill="#fff" stroke="#2a2a35" stroke-width="3"/>
+  <text x="760" y="525" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2a2a35">⚡️ Zero setup</text>
+  <text x="760" y="555" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#888">Chrome extension</text>
+</svg>
